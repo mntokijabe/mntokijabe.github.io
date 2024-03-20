@@ -1,6 +1,10 @@
 body {
-  background-color: #D3D3D1;
-  background-image: url("././images/Kilieleph.png");
+
+  background-image: url("././images/Kilieleph.png"); opacity:0.5;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachmdent: fixed;
+  background-size: cover;
   color: #dddddd;
   font-family: Arial, Helvetica, sans-serif;
   margin: 10% 15%;
